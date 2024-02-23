@@ -2,7 +2,7 @@
   "name": "reviewhub",
   "version": "1.0.0",
   "description": "a movie review application that will feature a separation of concerns between the client code and the server code",
-  "main": "index.js",
+  "main": "/ReViewHub/src/main/java/dev/satyamvirat/MovieController.java",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

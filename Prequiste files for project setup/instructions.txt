@@ -1,0 +1,6 @@
+## Sample dataset - 
+import the movies.json properly in your MongoDb Atlas
+
+## Project build setup -
+using https://start.spring.io/ , basic project structure was built and compressed into the zip file such as ReViewHub.zip.
+extract it when starting a completely new project, else just start using the already compeleted project from sibling-folder ReViewHub.
