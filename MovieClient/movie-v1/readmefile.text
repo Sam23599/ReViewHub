@@ -1,0 +1,16 @@
+## create react project-
+
+px create-react-app movie-v1    
+
+
+
+## packages installed-
+
+npm i @fortawesome/react-fontawesome
+npm i react-bootstrap   
+npm install bootstrap     
+npm install axios    
+npm i @fortawesome/free-solid-svg-icon
+npm i react-player 
+npm i react-router-dom
+npm i @mui/material @emotion/react @emotion/styled
