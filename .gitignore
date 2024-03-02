@@ -1,6 +1,6 @@
 # Include rules from subdirectories
 **/ReViewHub/gitignore
-**/MovieClient/movie-v1/gitignore
+# **/MovieClient/movie-v1/gitignore
 
 
-/MovieClient/movie-v1/node_modules
+# /MovieClient/movie-v1/node_modules
