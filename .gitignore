@@ -1,5 +1,5 @@
 # Include rules from subdirectories
-**/ReViewHub/gitignore
+# **/ReViewHub/gitignore
 # **/MovieClient/movie-v1/gitignore
 
 
